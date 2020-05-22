@@ -19,9 +19,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = u'SCMFDP'
+project = u'KKBaseerBOOK'
 copyright = u'2020, author here'
-author = u'author here'
+author = u'Dr. K. K. Baseer'
 
 # The short X.Y version
 version = u''
